@@ -30,6 +30,7 @@ const HeroContent = () => {
        
       <div className='lg:bt-2'></div>
         <motion.a
+        onClick={() => alert("I like pizza!")}
         variants={slideInFromLeft(1)}
         className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]'
         >
