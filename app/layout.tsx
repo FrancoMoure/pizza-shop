@@ -7,7 +7,7 @@ import Footer from  "@/components/main/Navbar"
 
 const inter = Inter({subsets: ['latin']})
 
-export const matadata: Metadata = {
+export const metadata: Metadata = {
   title: 'Pizza Shop',
   description: 'Pizza Shop',
 }
